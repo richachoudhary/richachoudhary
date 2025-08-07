@@ -19,7 +19,7 @@ Currently exploring roles in **cutting-edge AI teams** like Meta AI, FAIR, and D
 
 ### 🧠 NLP Projects
 
-- [`transformer-from-scratch`]([https://github.com/yourusername/transformer-from-scratch](https://github.com/richachoudhary/MLCoding/blob/main/NLP_GENAI/transformer.py))  
+- [`transformer-from-scratch`](https://github.com/richachoudhary/MLCoding/blob/main/NLP_GENAI/transformer.py)
   A minimal yet complete implementation of the Transformer model (Vaswani et al., 2017). Includes positional encoding, multi-head attention, and masking for decoder logic.  
   > *Goal*: Deepen understanding of attention-based architectures from first principles.
 
@@ -49,7 +49,7 @@ Currently exploring roles in **cutting-edge AI teams** like Meta AI, FAIR, and D
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/richa-choudhary/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/richa-choudhary0709/)  
 - 📫 Email: richa_choudhary@apple.com  
 - 🧠 Medium/Blog: *coming soon...*
 
