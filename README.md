@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Machine Learning Engineer with ~7 years of experience building and scaling ML systems across NLP, Computer Vision, and time-series domains. I'm passionate about solving real-world problems using data, models, and elegant engineering — and I'm especially drawn to areas at the intersection of **research and product**.
 
-Currently exploring roles in **cutting-edge AI teams** like Meta AI, FAIR, and DeepMind, with a focus on contributing to next-generation models, applied ML, and responsible AI systems.
+Currently **following interesting research** from OpenAI, Meta AI, FAIR, and DeepMind, with a focus on contributing to next-generation models, applied ML, and responsible AI systems.
 
 ---
 
