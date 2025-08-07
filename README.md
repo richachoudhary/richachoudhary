@@ -21,11 +21,11 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 - [`transformer-from-scratch`](https://github.com/richachoudhary/MLCoding/blob/main/NLP_GENAI/transformer.py)
   A minimal yet complete implementation of the Transformer model (Vaswani et al., 2017). Includes positional encoding, multi-head attention, and masking for decoder logic.  
-  > *Goal*: Deepen understanding of attention-based architectures from first principles.
+
 
 - [`abstractive-summarizer`](https://github.com/yourusername/abstractive-summarizer)  
   Built using Hugging Face + Seq2Seq models (T5, BART). Added evaluation metrics like ROUGE, BLEU, and support for custom datasets.  
-  > *Goal*: End-to-end pipeline for text summarization in production use-cases.
+
 
 ---
 
@@ -33,11 +33,11 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 - [`vqa-demo`]()  
   Visual Question Answering on the VQA v2 dataset using a pretrained ResNet encoder and LSTM + Attention decoder. Inspired by Meta AI’s work in multimodal ML.  
-  > *Goal*: Explore multi-modal fusion techniques and benchmark results.
+
 
 - [`efficient-cv-models`]()  
   Implemented and benchmarked light-weight models like MobileNetV3, SqueezeNet, and EfficientNet-lite on edge devices.  
-  > *Goal*: Explore model compression techniques for on-device inference.
+
 
 ---
 
