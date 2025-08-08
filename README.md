@@ -19,7 +19,7 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 ### 👁️ CV Projects
 
-- [`Real Time Object Detection, Counting and iOS App`](https://github.com/richachoudhary/object-detection-ios-app)
+- [`object-detection-iOS-app`](https://github.com/richachoudhary/object-detection-ios-app)
   A real-time object detection application for iOS devices that utilizes computer vision to identify and classify objects through the device's camera.
 
 
