@@ -31,8 +31,8 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 ### 👁️ CV Projects
 
-- [`vqa-demo`]()  
-  Visual Question Answering on the VQA v2 dataset using a pretrained ResNet encoder and LSTM + Attention decoder. Inspired by Meta AI’s work in multimodal ML.  
+- [`Real Time Object Detection & Counting`](https://github.com/richachoudhary/object-detection-inventory-count)  
+  A real-time object detection application for iOS devices that utilizes computer vision to identify and classify objects through the device's camera.
 
 
 - [`efficient-cv-models`]()  
