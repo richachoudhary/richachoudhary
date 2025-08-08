@@ -17,6 +17,15 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 ## 📂 Projects
 
+### 👁️ CV Projects
+
+- [`Real Time Object Detection & Counting and iOS App Dev`]([https://github.com/richachoudhary/object-detection-inventory-count](https://github.com/richachoudhary/object-detection-ios-app))  
+  A real-time object detection application for iOS devices that utilizes computer vision to identify and classify objects through the device's camera.
+
+
+- [`efficient-cv-models`]()  
+  Implemented and benchmarked light-weight models like MobileNetV3, SqueezeNet, and EfficientNet-lite on edge devices.  
+
 ### 🧠 NLP Projects
 
 - [`transformer-from-scratch`](https://github.com/richachoudhary/MLCoding/blob/main/NLP_GENAI/transformer.py)
@@ -29,17 +38,6 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 ---
 
-### 👁️ CV Projects
-
-- [`Real Time Object Detection & Counting`](https://github.com/richachoudhary/object-detection-inventory-count)  
-  A real-time object detection application for iOS devices that utilizes computer vision to identify and classify objects through the device's camera.
-
-
-- [`efficient-cv-models`]()  
-  Implemented and benchmarked light-weight models like MobileNetV3, SqueezeNet, and EfficientNet-lite on edge devices.  
-
-
----
 
 ## 🧰 Tech Stack
 
