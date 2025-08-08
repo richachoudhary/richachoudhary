@@ -48,8 +48,8 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/richa-choudhary0709/)  
-- 📫 Email: richa_choudhary@apple.com  
-- 🧠 Medium/Blog: *coming soon...*
+- 📫 [Email](richa_choudhary07.09@gmail.com)
+- 🧠 [Medium/Blog](https://medium.com/@richa4dhry/building-a-real-time-object-detection-app-with-swiftui-coreml-and-vision-cd476c88434d)
 
 I'm actively looking to contribute to high-impact ML projects and collaborate with teams working on intelligent systems at scale.
 
