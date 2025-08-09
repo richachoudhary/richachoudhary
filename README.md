@@ -41,7 +41,7 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 
 ## 🧰 Tech Stack
 
-`Python` • `PyTorch` • `Transformers` • `ONNX` • `Docker` • `Streamlit` • `Weights & Biases` • `OpenCV` • `scikit-learn`
+`Python` • `PyTorch` • `NLP` • 'CV'  •`ONNX` ` • `Transformer` •'LLM' • `OpenCV` • `scikit-learn` •'XGBOOST'  
 
 ---
 
