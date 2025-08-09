@@ -9,6 +9,7 @@ Currently **following interesting research** from OpenAI, Meta AI, FAIR, and Dee
 ## 🔬 Current Focus
 
 - Efficient deep learning architectures (Transformers, MobileNets, Distilled Models)
+- Multimodel vison-language-sensing for accurate 3D motion prediction for AR/VR/XR
 - NLP: Text summarization, Q&A systems, and retrieval-augmented generation (RAG)
 - Vision: Visual Question Answering (VQA), self-supervised learning in CV
 - ML for personalization, recsys, and user behavior modeling
